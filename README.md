@@ -16,6 +16,10 @@ This repository contains an interactive Power BI dashboard designed to analyze s
 ## Requirements
 To view and interact with the dashboard, you need:
 - **Microsoft Power BI Desktop** (Download: https://powerbi.microsoft.com/)
+  
+![Screenshot 2025-03-31 164726](https://github.com/user-attachments/assets/4dd15764-2216-4ffd-b7aa-243fe307b33b)
+
+  
 
 ## How to Use
 1. Clone this repository:
